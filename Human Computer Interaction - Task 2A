@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T18:27:11.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="fqPthRZZnzOrAI3NglBl" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T18:34:12.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="9IZYVsrHjDHzLtC1j34Q" version="14.8.0" type="github">
   <diagram id="58Ij7bEDB2cjNOlJ_8JR" name="Page-1">
-    <mxGraphModel dx="1730" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="346" dy="196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qiq0EX7_POz90n5GMqn3-11" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-11" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="640" as="sourcePoint" />
             <mxPoint x="490" y="250" as="targetPoint" />
@@ -13,7 +13,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-12" value="&lt;font color=&quot;#000000&quot;&gt;Melihat list&lt;br&gt;anggota Tribo&amp;nbsp;&lt;br&gt;(13:44)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-11">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-12" value="&lt;font color=&quot;#000000&quot;&gt;Melihat list&lt;br&gt;anggota Tribo&amp;nbsp;&lt;br&gt;(13:44)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-11" vertex="1" connectable="0">
           <mxGeometry x="0.2162" y="-31" relative="1" as="geometry">
             <mxPoint x="-122" y="81" as="offset" />
           </mxGeometry>
@@ -33,12 +33,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-1" value="Register atau login (7:41)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-60;fontSize=9;" vertex="1" connectable="0" parent="egTsDKj8lHPdFkSK8eoI-4">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-1" value="Register atau login (7:41)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-60;fontSize=9;" parent="egTsDKj8lHPdFkSK8eoI-4" vertex="1" connectable="0">
           <mxGeometry x="0.5061" y="-66" relative="1" as="geometry">
             <mxPoint x="-3" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="egTsDKj8lHPdFkSK8eoI-5" value="" style="curved=1;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" edge="1" target="egTsDKj8lHPdFkSK8eoI-2">
+        <mxCell id="egTsDKj8lHPdFkSK8eoI-5" value="" style="curved=1;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="520" as="sourcePoint" />
             <mxPoint x="380" y="260" as="targetPoint" />
@@ -47,36 +47,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-2" value="Menuju pencarian Tribo publik(8:43)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-60;fontSize=9;" vertex="1" connectable="0" parent="egTsDKj8lHPdFkSK8eoI-5">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-2" value="Menuju pencarian Tribo publik(8:43)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-60;fontSize=9;" parent="egTsDKj8lHPdFkSK8eoI-5" vertex="1" connectable="0">
           <mxGeometry x="0.4685" y="-66" relative="1" as="geometry">
             <mxPoint x="-6" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-4" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-4" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="198" y="479" as="sourcePoint" />
             <mxPoint x="208" y="469" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-7" value="Bingung untuk mencari &lt;br style=&quot;font-size: 7px;&quot;&gt;tribo publik (9:20)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-4">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-7" value="Bingung untuk mencari &lt;br style=&quot;font-size: 7px;&quot;&gt;tribo publik (9:20)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" parent="qiq0EX7_POz90n5GMqn3-4" vertex="1" connectable="0">
           <mxGeometry x="0.4726" relative="1" as="geometry">
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-5" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-5" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="208" y="469" as="sourcePoint" />
             <mxPoint x="198" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-6" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-6" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="198" y="459" as="sourcePoint" />
             <mxPoint x="208" y="449" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-9" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-9" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="660" as="sourcePoint" />
             <mxPoint x="380" y="270" as="targetPoint" />
@@ -85,12 +85,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-10" value="&lt;font color=&quot;#000000&quot;&gt;Bergabung Tribo &lt;br&gt;Publik (11:28)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;rotation=-30;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-9">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-10" value="&lt;font color=&quot;#000000&quot;&gt;Bergabung Tribo &lt;br&gt;Publik (11:28)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;rotation=-30;" parent="qiq0EX7_POz90n5GMqn3-9" vertex="1" connectable="0">
           <mxGeometry x="0.362" y="-62" relative="1" as="geometry">
             <mxPoint x="-5" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-13" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-13" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="470" as="sourcePoint" />
             <mxPoint x="420" y="420" as="targetPoint" />
@@ -99,23 +99,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-16" value="&lt;font color=&quot;#000000&quot;&gt;Mengganti Kata Kunci&lt;br&gt;(12:26)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-13">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-16" value="&lt;font color=&quot;#000000&quot;&gt;Mengganti Kata Kunci&lt;br&gt;(12:26)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1328" y="55" relative="1" as="geometry">
             <mxPoint x="-25" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-14" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="egTsDKj8lHPdFkSK8eoI-1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-14" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="470" as="sourcePoint" />
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-15" value="&lt;font color=&quot;#000000&quot;&gt;Melihat Profil User&lt;br&gt;(12:15)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-14">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-15" value="&lt;font color=&quot;#000000&quot;&gt;Melihat Profil User&lt;br&gt;(12:15)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-14" vertex="1" connectable="0">
           <mxGeometry x="0.1231" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-17" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=-0.068;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-17" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=-0.068;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="429.99786437627483" y="649.5378643762748" as="sourcePoint" />
             <mxPoint x="398.70000000000016" y="269.99999999999994" as="targetPoint" />
@@ -124,12 +124,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-18" value="&lt;font color=&quot;#000000&quot;&gt;Kembali Ke Dashboard&lt;br&gt;dari Dalam &lt;br&gt;Salah Satu Tribo&lt;br&gt;(11:57)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-17">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-18" value="&lt;font color=&quot;#000000&quot;&gt;Kembali Ke Dashboard&lt;br&gt;dari Dalam &lt;br&gt;Salah Satu Tribo&lt;br&gt;(11:57)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-17" vertex="1" connectable="0">
           <mxGeometry x="-0.6293" y="17" relative="1" as="geometry">
             <mxPoint x="-3" y="-119" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-19" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-19" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" target="egTsDKj8lHPdFkSK8eoI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="460" as="sourcePoint" />
             <mxPoint x="560" y="410" as="targetPoint" />
@@ -138,12 +138,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-20" value="&lt;font color=&quot;#000000&quot;&gt;Melihat Perbincangan&lt;br&gt;di Tribo (14:01)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-19">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-20" value="&lt;font color=&quot;#000000&quot;&gt;Melihat Perbincangan&lt;br&gt;di Tribo (14:01)&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-19" vertex="1" connectable="0">
           <mxGeometry x="0.4599" y="81" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-23" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="egTsDKj8lHPdFkSK8eoI-1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-23" value="" style="curved=1;endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="egTsDKj8lHPdFkSK8eoI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="370" as="sourcePoint" />
             <mxPoint x="490" y="230" as="targetPoint" />
@@ -152,151 +152,151 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Mencoba Menghapus&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Akun User&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;(14:12)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-23">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Mencoba Menghapus&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Akun User&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;(14:12)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-23" vertex="1" connectable="0">
           <mxGeometry x="0.4674" y="85" relative="1" as="geometry">
             <mxPoint x="-31" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-25" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-25" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="540" as="sourcePoint" />
             <mxPoint x="380" y="530" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-26" value="Bingung mencari &lt;br&gt;tombol &quot;kembali&quot;&lt;br&gt;(11:57)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-25">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-26" value="Bingung mencari &lt;br&gt;tombol &quot;kembali&quot;&lt;br&gt;(11:57)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" parent="qiq0EX7_POz90n5GMqn3-25" vertex="1" connectable="0">
           <mxGeometry x="0.4726" relative="1" as="geometry">
             <mxPoint x="7" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-27" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-27" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="530" as="sourcePoint" />
             <mxPoint x="370" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-28" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-28" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="520" as="sourcePoint" />
             <mxPoint x="380" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-29" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-29" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="530" as="sourcePoint" />
             <mxPoint x="610" y="520" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-30" value="Bingung untuk mencari &lt;br style=&quot;font-size: 7px&quot;&gt;tribo publik (13:32)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-29">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-30" value="Bingung untuk letak anggota&lt;br style=&quot;font-size: 7px&quot;&gt;tribo&amp;nbsp;(13:32)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" parent="qiq0EX7_POz90n5GMqn3-29" vertex="1" connectable="0">
           <mxGeometry x="0.4726" relative="1" as="geometry">
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-31" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-31" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="520" as="sourcePoint" />
             <mxPoint x="600" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-32" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-32" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="510" as="sourcePoint" />
             <mxPoint x="610" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-33" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-33" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="520" as="sourcePoint" />
             <mxPoint x="550" y="510" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-34" value="Bingung untuk letak&lt;br&gt;mengganti kata kunci (12:16)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-33">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-34" value="Bingung untuk letak&lt;br&gt;mengganti kata kunci (12:16)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" parent="qiq0EX7_POz90n5GMqn3-33" vertex="1" connectable="0">
           <mxGeometry x="0.4726" relative="1" as="geometry">
             <mxPoint x="-7" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-35" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-35" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="510" as="sourcePoint" />
             <mxPoint x="540" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-36" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-36" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="500" as="sourcePoint" />
             <mxPoint x="550" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-37" value="&lt;font color=&quot;#000000&quot;&gt;User&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-37" value="&lt;font color=&quot;#000000&quot;&gt;User&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="416" y="916" width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-38" value="&lt;font color=&quot;#000000&quot;&gt;Penggunaan&lt;br&gt;Aplikasi Lain&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-38" value="&lt;font color=&quot;#000000&quot;&gt;Penggunaan&lt;br&gt;Aplikasi Lain&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="653" y="902" width="59.25" height="59.25" as="geometry" />
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-41" value="&lt;font color=&quot;#000000&quot;&gt;Tribo App&lt;br&gt;View grup Tribo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-41" value="&lt;font color=&quot;#000000&quot;&gt;Tribo App&lt;br&gt;View grup Tribo&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=9;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="490" y="788" width="53" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-42" value="" style="endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0.137;exitY=0.774;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiq0EX7_POz90n5GMqn3-41" target="qiq0EX7_POz90n5GMqn3-37">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-42" value="" style="endArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=0.137;exitY=0.774;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qiq0EX7_POz90n5GMqn3-41" target="qiq0EX7_POz90n5GMqn3-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="497" y="920" as="sourcePoint" />
             <mxPoint x="547" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-43" value="&lt;font color=&quot;#000000&quot;&gt;Bingung mencari&lt;br&gt;Tombol Kembali&lt;br&gt;(17:49)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-42">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-43" value="&lt;font color=&quot;#000000&quot;&gt;Bingung mencari&lt;br&gt;Tombol Kembali&lt;br&gt;(17:49)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-42" vertex="1" connectable="0">
           <mxGeometry x="-0.2012" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-44" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiq0EX7_POz90n5GMqn3-37" target="qiq0EX7_POz90n5GMqn3-38">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-44" value="" style="endArrow=classic;startArrow=classic;html=1;fontSize=9;fontColor=#FF3333;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qiq0EX7_POz90n5GMqn3-37" target="qiq0EX7_POz90n5GMqn3-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="497" y="920" as="sourcePoint" />
             <mxPoint x="547" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-45" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Menggunakan Aplikasi&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;lain untuk bergabung&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;komunitas (3:11)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-44">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-45" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Menggunakan Aplikasi&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;lain untuk bergabung&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;komunitas (3:11)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#FF3333;" parent="qiq0EX7_POz90n5GMqn3-44" vertex="1" connectable="0">
           <mxGeometry x="0.2011" y="-1" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-46" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-46" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="946.62" as="sourcePoint" />
             <mxPoint x="500" y="936.62" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-47" value="Lebih percaya platform lain&lt;br&gt;(6:27)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" vertex="1" connectable="0" parent="qiq0EX7_POz90n5GMqn3-46">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-47" value="Lebih percaya platform lain&lt;br&gt;(6:27)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-45;fontColor=#FF3333;fontSize=7;" parent="qiq0EX7_POz90n5GMqn3-46" vertex="1" connectable="0">
           <mxGeometry x="0.4726" relative="1" as="geometry">
             <mxPoint x="-7" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-48" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-48" value="" style="endArrow=none;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="936.62" as="sourcePoint" />
             <mxPoint x="490" y="926.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-49" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-49" value="" style="endArrow=none;html=1;fillColor=#f8cecc;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="926.62" as="sourcePoint" />
             <mxPoint x="500" y="916.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-50" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Ingin tombol profile pindah(17:12)&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;Ingin ada tombol &quot;kembali&quot; (17:49)&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-50" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Ingin tombol profile pindah(17:12)&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;Ingin ada tombol &quot;kembali&quot; (17:49)&lt;br&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="157" y="861" width="229" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=9;fontColor=#FF3333;exitX=0.889;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qiq0EX7_POz90n5GMqn3-50" target="qiq0EX7_POz90n5GMqn3-37">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=9;fontColor=#FF3333;exitX=0.889;exitY=0.445;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qiq0EX7_POz90n5GMqn3-50" target="qiq0EX7_POz90n5GMqn3-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="949" as="sourcePoint" />
             <mxPoint x="430" y="899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-53" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;MODEL ALIRAN&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-53" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;MODEL ALIRAN&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="70" y="132" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qiq0EX7_POz90n5GMqn3-54" value="MODEL SOSIAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qiq0EX7_POz90n5GMqn3-54" value="MODEL SOSIAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="97" y="804.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
